@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">trip_expense</string>
+    <string name="all_trip">All Trip</string>
+    <string name="detail_trip">Detail Trip</string>
+</resources>
